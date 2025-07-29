@@ -101,7 +101,7 @@ chart_data = pd.DataFrame(np.random.randn(20, 3), columns=["a", "b", "c"])
 st.scatter_chart(chart_data)
 
 with st.chat_message("user"):
-    st.write("Hey Doing GOod")
+    st.write("Hey Doing Good")
 
 
 
